@@ -84,20 +84,6 @@ class LogIn : AppCompatActivity() {
                             println("Data retrieval cancelled:")
                         }
                     })
-
-                        /*
-                    if(category == "Student")
-
-                    {
-                        val intent = Intent(this@SignUp, StudentInterface::class.java)
-                        startActivity(intent)
-                    }
-                    else
-                    {
-                        val intent = Intent(this@SignUp, HodInterface::class.java)
-                        startActivity(intent)
-                    }
-                    */
                     }    else {
                         // If sign in fails, display a message to the user.
                         Toast.makeText(this@LogIn, "user does't exist", Toast.LENGTH_SHORT).show()
