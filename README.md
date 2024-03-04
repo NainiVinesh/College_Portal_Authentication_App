@@ -1,1 +1,1 @@
-# College_Portal_Authentication_App
+The College Portal Authentication App is a robust mobile application designed to streamline access to the college's online portal. Developed using the Kotlin programming language and integrated with Firebase for authentication, the app provides a secure and efficient way for students and faculty members to access essential services and information.
